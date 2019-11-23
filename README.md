@@ -1,1 +1,1 @@
-# Parking Lot Code in Java
+# Parking Lot code in Java
